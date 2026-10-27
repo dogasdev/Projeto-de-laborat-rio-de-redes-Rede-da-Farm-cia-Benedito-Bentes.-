@@ -24,9 +24,7 @@ Desenvolvido no Cisco Packet Tracer, o projeto aplica conceitos fundamentais de 
 
 A topologia representa a organização dos dispositivos e suas conexões dentro da infraestrutura proposta.
 
-![Topologia da rede](docs/topologia.png) ((((((colocar imagem aqui eduarda da topologia do draw.io)))))))))))))))))))))))))))))))))
-
-> Adicione uma captura de tela da topologia desenvolvida no Packet Tracer em `docs/topologia.png`.
+![Topologia da rede](./TOPOLOGIA%20PETISTA.drawio.png)
 
 ##  Como executar (((((((((((((((((oorganiza aqui depoois eduarda))))))))))))))))
 
