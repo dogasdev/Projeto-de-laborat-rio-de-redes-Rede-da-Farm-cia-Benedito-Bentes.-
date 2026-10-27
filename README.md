@@ -26,6 +26,10 @@ A topologia representa a organização dos dispositivos e suas conexões dentro 
 
 ![Topologia da rede](./TOPOLOGIA%20PETISTA.drawio.png)
 
+## Apresentação do projeto
+
+[Visualizar apresentação em slides](https://canva.link/c8p51fruhwamgu7)
+
 ##  Como executar (((((((((((((((((oorganiza aqui depoois eduarda))))))))))))))))
 
 1. Baixe o arquivo `rede.pkt` no diretório `projeto/`.
