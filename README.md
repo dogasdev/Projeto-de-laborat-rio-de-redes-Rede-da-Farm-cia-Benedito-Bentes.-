@@ -32,13 +32,8 @@ A topologia representa a organização dos dispositivos e suas conexões dentro 
 
 ##  Como executar (((((((((((((((((oorganiza aqui depoois eduarda))))))))))))))))
 
-1. Baixe o arquivo `rede.pkt` no diretório `projeto/`.
-2. Abra o arquivo no Cisco Packet Tracer.
-3. Confira a configuração dos dispositivos.
-4. Execute os testes de conectividade.
+1. Baixe o arquivo `projetoFarmacia_13.pkt` 
+3. Abra o arquivo no Cisco Packet Tracer.
+4. Confira a configuração dos dispositivos.
+5. Execute os testes de conectividade.
 
-
-
-<p align="center">
-  Desenvolvido para fins acadêmicos e de aprendizado em redes de computadores.
-</p>
