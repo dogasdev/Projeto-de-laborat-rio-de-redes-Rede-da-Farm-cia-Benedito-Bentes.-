@@ -30,7 +30,7 @@ A topologia representa a organização dos dispositivos e suas conexões dentro 
 
 [Visualizar apresentação em slides](https://canva.link/c8p51fruhwamgu7)
 
-##  Como executar (((((((((((((((((oorganiza aqui depoois eduarda))))))))))))))))
+##  Como executar
 
 1. Baixe o arquivo `projetoFarmacia_13.pkt` 
 3. Abra o arquivo no Cisco Packet Tracer.
