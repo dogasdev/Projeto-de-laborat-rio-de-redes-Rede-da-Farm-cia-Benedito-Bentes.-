@@ -1,39 +1,43 @@
-##  Sobre o projeto
+# Sobre o projeto
 
-Este é um projeto acadêmico desenvolvido pelos alunos Crislany Victória, Maria Eduarda e Pedro José, como requisito para obtenção de nota na 2ª unidade da disciplina de Laboratório de Redes de Computadores, ministrada pelo professor Karlson Tellicio Bezerra de Lima Guabiraba.
+Este é um projeto acadêmico desenvolvido pelos alunos Crislany Victória, Davi Lucas, Gustavo William, Laura Angela e Maria Júlia.
 
-No cenário proposto, a personagem fictícia Sakura Haruno é a diretora da Farmácia Benedito Bentes, que, em parceria com uma organização de Maceió, contratou nossa equipe de TI para:
+O projeto consiste no desenvolvimento de um sistema de armazenamento e gerenciamento de arquivos utilizando serviços da Amazon Web Services (AWS).
 
-1. Planejar a infraestrutura, incluindo o Termo de Abertura do Projeto (TAP) e a análise de riscos.
-2. Simular a rede utilizando o Cisco Packet Tracer.
-3. Documentar o projeto por meio do draw.io e de uma tabela de endereçamento IP.
+A aplicação foi planejada para permitir o envio, a listagem e o download de arquivos, utilizando recursos de computação e armazenamento em nuvem.
 
-Nesse cenário, a rede da unidade é composta por três setores: gerência, caixa e depósito. O projeto consiste na simulação de uma infraestrutura de rede para a instituição, com foco na organização dos dispositivos, na configuração dos serviços de rede e na conectividade entre os equipamentos.
+## A arquitetura proposta utiliza os seguintes serviços:
 
-Desenvolvido no Cisco Packet Tracer, o projeto aplica conceitos fundamentais de redes de computadores, incluindo endereçamento IPv4, configuração de dispositivos e distribuição automática de endereços IP por meio do protocolo DHCP.
+- **AWS Amplify:** hospedagem da aplicação web.
+- **Amazon S3:** armazenamento dos arquivos.
+- **AWS Lambda:** execução das operações de processamento.
+- **Amazon API Gateway:** integração entre a aplicação e as funções Lambda.
+- **AWS IAM:** gerenciamento de permissões e controle de acesso.
+- **Amazon CloudWatch:** monitoramento dos recursos.
 
-##  Objetivos
+## Arquitetura do projeto
 
-- Planejar uma infraestrutura de rede organizada e estável.
-- Configurar os dispositivos de rede necessários.
-- Implementar a distribuição automática de endereços IP via DHCP.
-- Validar a comunicação entre os dispositivos.
-- Documentar as configurações e os testes realizados.
+A arquitetura representa a integração entre a aplicação web e os serviços da AWS responsáveis pelo processamento e armazenamento dos arquivos.
 
-##  Topologia da rede
+## Aplicação web
 
-A topologia representa a organização dos dispositivos e suas conexões dentro da infraestrutura proposta.
+[Acessar o sistema de armazenamento de arquivos](https://main.d3plpegxkogu1y.amplifyapp.com/)
 
-![Topologia da rede](./TOPOLOGIA%20PETISTA.drawio.png)
+## Serviços utilizados
 
-## Apresentação do projeto
+| Serviço | Finalidade |
+|---|---|
+| AWS Amplify | Hospedagem da aplicação |
+| Amazon S3 | Armazenamento de arquivos |
+| AWS Lambda | Processamento das operações |
+| API Gateway | Comunicação entre os serviços |
+| IAM | Controle de permissões |
+| CloudWatch | Monitoramento |
 
-[Visualizar apresentação em slides](https://canva.link/c8p51fruhwamgu7)
+## Como acessar
 
-##  Como executar
+1. Acesse o link da aplicação web.
+2. Aguarde o carregamento do sistema.
+3. Utilize as funcionalidades disponíveis para gerenciar os arquivos.
 
-1. Baixe o arquivo `projetoFarmacia_13.pkt` 
-3. Abra o arquivo no Cisco Packet Tracer.
-4. Confira a configuração dos dispositivos.
-5. Execute os testes de conectividade.
-
+[**Acessar aplicação web**](https://main.d3plpegxkogu1y.amplifyapp.com/)
